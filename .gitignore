@@ -1,0 +1,4 @@
+/crawlgate
+/dist/
+*.test
+*.out
