@@ -1,5 +1,7 @@
 # crawlgate
 
+[![Release](https://img.shields.io/github/v/release/North-web-dev/crawlgate?sort=semver)](https://github.com/North-web-dev/crawlgate/releases) [![Go Reference](https://pkg.go.dev/badge/github.com/North-web-dev/crawlgate.svg)](https://pkg.go.dev/github.com/North-web-dev/crawlgate) [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Go](https://img.shields.io/github/go-mod/go-version/North-web-dev/crawlgate)
+
 Defensive bot management in one Go binary. crawlgate sits in front of a web
 service (as a reverse proxy, or as `net/http` middleware inside your own
 server) and does three things:
